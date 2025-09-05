@@ -4,6 +4,6 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=BRUNO&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Kronovi1&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats"/>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Kronovi1&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats"/>
 
 <p>Estudando na {UNIFG}<br/> Eu sou desenvolvedor {front-end}</p>
