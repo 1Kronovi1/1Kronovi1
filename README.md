@@ -1,7 +1,9 @@
 <div align='center'>
+ 
  ### Olá, meu nome é {Bruno Oliveira}!<br><br>
  <img src="https://img.shields.io/static/v1?label=Overview&message=BRUNO&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
  <p>Estudando na {UNIFG} 👨‍🎓<br/> Eu sou desenvolvedor {front-end} 🌐</p>
+ 
 </div><br><br>
 
 <div align='center'>
