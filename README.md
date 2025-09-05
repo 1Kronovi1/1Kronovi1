@@ -4,7 +4,7 @@
    
    <h2>Olá, meu nome é {Bruno Oliveira}!</h2><br><br>
     <img src="https://img.shields.io/static/v1?label=Overview&message=BRUNO&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
-    <p>Estudando na {UNIFG} 👨‍🎓<br/> Eu sou desenvolvedor {front-end} 🌐</p>
+    <p>Universitário {ADS 4o Período} 👨‍🎓<br/> Eu sou desenvolvedor {front-end} 🌐</p>
     
   </div>
 
