@@ -20,7 +20,7 @@
       <img width='40' src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png">
       <img width='40' src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png">
       <img width='40' src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png">
-      <img width='40' src="[https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/claude.png](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Claude_AI_symbol.svg/1280px-Claude_AI_symbol.svg.png)">
+      <img width='40' src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Claude_AI_symbol.svg/1280px-Claude_AI_symbol.svg.png">
       <img width='40' src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lovable.png">
     </div>
     
