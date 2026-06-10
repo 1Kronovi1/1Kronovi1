@@ -21,7 +21,9 @@
       <img width='40' src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png">
       <img width='40' src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png">
       <img width='40' src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Claude_AI_symbol.svg/1280px-Claude_AI_symbol.svg.png">
-      <img width='40' src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lovable.png">
+      <img width='40' src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/lovable-ai-icon.png">
+      <img width='40' src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/microsoft-copilot.png">
+      <img width='40' src="https://static.wikia.nocookie.net/logopedia/images/4/4a/Google_Antigravity_icon.svg/revision/latest/scale-to-width-down/1200?cb=20251119202403">
     </div>
     
   </div>
